@@ -1,5 +1,8 @@
 # TaniPredict-Machine-Learning-
 
+Link for Pre-Trained Model
+https://drive.google.com/drive/folders/1yCE-ZKGTbny9mu93yI_rhIgSlp18rxSx?usp=sharing
+
 Link for tflite:
 https://drive.google.com/drive/folders/1morGZOQiD7-k6aY0Zqiy5AMlpNrVHmSJ?usp=sharing 
 
